@@ -1,0 +1,13 @@
+[project]
+name = "chatapp_test"
+channels = ["conda-forge"]
+platforms = ["win-64", "linux-64", "osx-64", "osx-arm64"]
+
+[dependencies]
+python = "3.11.*"
+
+[pypi-dependencies]
+nicegui = ">=1.4.20"
+
+[tasks]
+dev = "python main.py"
