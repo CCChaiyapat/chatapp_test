@@ -5,7 +5,7 @@ It demonstrates how to create a simple, real-time web UI using NiceGUI.
 
 ---
 
-## 🧩 Overview
+##  Overview
 
 - Runs a chat interface at `http://localhost:8080/`
 - Each user gets a random avatar generated from [robohash.org](https://robohash.org)
